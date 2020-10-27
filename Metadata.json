@@ -1,0 +1,20 @@
+{
+    "Author": "Sumesh P",
+    "ContentSize": 11894,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-runbook-startstop-azure-arm-vms-in-a-defined-sequence-using-tags/master/Set-AzureRMVMSynchronizedStartStop.ps1",
+    "DownloadCount": 2824,
+    "Id": "Start-Stop-VMs-in-Azure-615384b6",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 48,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-2-6T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Runbook Workflow helps to Start/Stop VMs in Azure ARM portal in a defined sequence using TagsTo onboard servers, simply add a Tag named 'AutoStart' with a Json formatted value in the form {\"Group\":\"1\",\"Sequence\":\"2\"}You can target individual GROUPS or ALL",
+    "Title": "Azure Runbook - Start-Stop Azure ARM VMs in a defined sequence using Tags",
+    "UpdatedDate": "2018-2-6T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-runbook-startstop-azure-arm-vms-in-a-defined-sequence-using-tags",
+    "UserTags": "Azure Runbooks, Azure VMs Scheduled Start and Shutdown"
+}
